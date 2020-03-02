@@ -1,0 +1,1 @@
+git log --pretty="format:%s" --reverse | head -n 6 | tr '\n' ' '
